@@ -39,11 +39,6 @@ class ImportRepository extends BaseRepository {
       await getInstance();
 
       entity = responses;
-
-      /* for (var response in responses) {
-        await _assetDao.createOrUpdate(Asset.fromResponse(response, company));
-        await _assetDao.updateCompanIdById(company, response.id);
-      }*/
     } catch (e) {
       rethrow;
     }
@@ -56,11 +51,6 @@ class ImportRepository extends BaseRepository {
       await getInstance();
 
       entity = responses;
-
-      /* for (var response in responses) {
-        await _locationDao.createOrUpdate(Location.fromResponse(response, company));
-        await _locationDao.updateCompanIdById(company, response.id);
-      }*/
     } catch (e) {
       rethrow;
     }

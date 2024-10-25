@@ -1,7 +1,5 @@
 import 'package:dio/dio.dart';
 import 'package:retrofit/retrofit.dart';
-import 'package:projeto_atividade/model/entity/asset/asset.dart';
-import 'package:projeto_atividade/model/entity/locations/locations.dart';
 import 'package:projeto_atividade/network/response/asset/asset_response.dart';
 import 'package:projeto_atividade/network/response/locations/locations_response.dart';
 import 'package:projeto_atividade/network/response/companies/companies_response.dart';
