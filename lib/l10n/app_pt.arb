@@ -1,0 +1,105 @@
+{
+  "common_user": "Usuário",
+  "common_password": "Senha",
+  "common_login": "Login",
+  "common_logout": "Logout",
+  "common_confirm": "Confirmar",
+  "common_yes": "Sim",
+  "common_no": "Não",
+  "common_ok": "OK",
+  "common_back": "Voltar",
+  "common_close": "Fechar",
+  "common_exit": "Sair",
+  "common_save": "Salvar",
+  "common_cancel": "Cancelar",
+  "common_edit": "Editar",
+  "common_delete": "Excluir",
+  "common_attention": "Atenção",
+  "common_empty_list": "Parece que não tem nada aqui...",
+  "common_add": "Adicionar",
+  "common_add_atach": "Adicionar Anexo",
+  "common_select": "Selecionar",
+  "common_description": "Descrição",
+  "common_name": "Nome",
+  "common_email": "E-mail",
+  "common_version": "Versão",
+  "common_copyright": "Copyright",
+  "common_saving": "Salvando...",
+  "common_loading": "Carregando...",
+  "common_generating": "Gerando...",
+  "common_exiting": "Saindo...",
+  "common_syncing": "Sincronizando...",
+  "common_cleaning": "Limpando...",
+  "common_deleting": "Excluindo...",
+  "common_sync": "Sincronizar",
+  "common_sync_success": "Dados sincronizados com sucesso!",
+  "common_sync_success_pending_qualidades": "Dados sincronizados com sucesso!\n\nAlguns registros possuem qualidades pendentes e não foram sincronizados.",
+  "common_sync_only_pending_qualidades": "Todos os registros que não possuem qualidades pendentes já se encontram sincronizados.\n\nPor favor, preencha os pendentes para sincronização.",
+  "common_all_right": "Tudo certo!",
+  "common_almost_all_right": "Quase tudo certo!",
+  "common_search": "Pesquisar...",
+  "common_synced": "Sincronizado",
+  "common_not_synced": "Não Sincronizado",
+  "common_no_data_for_sync": "Todos os registros já se encontram sincronizados.",
+  "common_habilitado": "Habilitado",
+  "common_nao_habilitado": "Não habilitado",
+  "common_save_before_exit": "Salvar antes de sair?",
+  "common_save_before_exit_message": "Todos os dados não salvos serão perdidos.\nDeseja salvar?",
+  "common_login_working_offline": "Você está trabalhando offline.",
+  "common_login_error": "Ocorreu um erro na autenticação. Você ainda poderá abrir a lista de projetos.\n\n{error}",
+  "@common_login_error": {
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Error"
+      }
+    }
+  },
+  "common_splash_init": "Inciando...",
+  "common_splash_wait": "Autenticação em andamento, por favor aguarde.",
+  "common_import_init": "Iniciando verificações e importações...",
+  "common_import_wait": "Importação em andamento, por favor aguarde.",
+  "common_import_advice": "Importando dados, é recomendável uma boa conexão com a internet.\nPor favor, não feche essa tela.",
+  "common_import_error": "Ocorreu um erro na importação. Você ainda poderá abrir a lista de projetos.\n\n{error}",
+  "@common_import_error": {
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Error"
+      }
+    }
+  },
+  "common_import_remote_error": "Ocorreu um erro fatal na importação.\n\n{error}\n\nVocê ainda poderá abrir a lista de projetos.\nCaso o erro persista entre em contato com o seu administrador.\n\n{error}",
+  "@common_import_remote_error": {
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Error"
+      }
+    }
+  },
+  "common_import_user": "Importar dados",
+  "common_import_user_last_update": "Atualizado em",
+  "common_import_user_message": "Deseja realizar a importação dos dados?",
+  "common_import_user_force": "Forçar importação",
+  "common_export": "Sincronizar",
+  "common_exporting": "Sincronização dos dados",
+  "common_export_message": "Deseja iniciar a sincronização dos dados?\n\nEsse processo pode demorar um pouco dependendo do volume de dados pendentes de sincronização.\n\nÉ recomendável uma boa conexão com a internet.",
+  "common_export_message_single": "Deseja iniciar a sincronização dos dados do registro '{description}'?\n\nEsse processo pode demorar um pouco dependendo do volume de dados pendentes de sincronização.\n\nÉ recomendável uma boa conexão com a internet.",
+  "@common_export_message_single": {
+    "placeholders": {
+      "description": {
+        "type": "String",
+        "example": "Description"
+      }
+    }
+  },
+
+  "projeto_toolbar_title": "TRACTIAN",
+  "projeto_toolbar_subtitle": "Selecione o projeto",
+  
+  "assets_toobar_title": "Assets",
+  "assets_toobar_subtitle": "",
+  "asses_search": "Busca ativo ou local"
+  
+}

@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "*.iml": true,
+        "**/build": true,
+        "**/.idea": true,
+        "**/.packages": true,
+        "**/.metadata": true,
+        "**/.flutter-plugins": true,
+        "**/.flutter-plugins-dependencies": true,
+        "**/pubspec.lock": true,
+        "**/desktop.ini": true,
+    },
+
+    "files.associations": {
+		"*.arb": "json"
+	},
+    
+    "dart.lineLength": 128
+}
