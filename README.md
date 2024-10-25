@@ -18,11 +18,11 @@
 
 |           Splash            |          Home           |            All Assets                 |
 | :-------------------------: | :---------------------: |   :-----------------------------:     |
-| ![Splash](/demo/splash.jpg) | ![Home](/demo/home.jpg) | ![Settings](/demo/lista_assets.jpg)   |
+| ![Splash](/Demo/splash.jpg) | ![Home](/Demo/home.jpg) | ![Settings](/Demo/lista_assets.jpg)   |
 
 |             Assets Filter 01             |             Assets Filter 02              |             Assets Filter 03              |
 | :---------------------------------: | :---------------------------------------: | :---------------------------------------: |
-| ![All Assets](/demo/filtro_nome.jpg) | ![Assets Filter 01](/demo/filtro_critico.jpg) | ![Assets Filter 02](/demo/filtro_energia.jpg) |
+| ![All Assets](/Demo/filtro_nome.jpg) | ![Assets Filter 01](/Demo/filtro_critico.jpg) | ![Assets Filter 02](/Demo/filtro_energia.jpg) |
 
 </details>
 
